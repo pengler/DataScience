@@ -1,0 +1,7 @@
+# Untracked files
+# ignore data and reports
+*.pdf
+*.txt
+*.csv
+.R*
+specdata/**
